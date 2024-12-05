@@ -40,17 +40,17 @@ Collaborative-Based Filtering and Hybrid Models are large files even after compr
 
 # Features
 
-## Collaborative Filtering (SVD)
+**Collaborative Filtering (SVD)**
 - Matrix factorization for user-item interactions
 - Handles sparse rating matrices efficiently
 - Captures latent features from user behavior
 
-## Content-Based Filtering (TF-IDF)
+**Content-Based Filtering (TF-IDF)**
 - Text analysis of product descriptions
 - Feature extraction from product attributes
 - Cosine similarity for item matching
 
-## Hybrid Approach (Random Forest)
+**Hybrid Approach (Random Forest)**
 - Combines predictions from both models
 - Optimizes weights dynamically
 - Handles cold-start problems effectively
