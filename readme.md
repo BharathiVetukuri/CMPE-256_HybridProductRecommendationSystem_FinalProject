@@ -1,6 +1,6 @@
 # Hybrid-Product-Recommendation-System
 
-A scalable hybrid recommendation system that combines Singular Value Decomposition (SVD), TF-IDF, and Random Forest to provide personalized product recommendations.
+A scalable hybrid recommendation system that combines Singular Value Decomposition (SVD), TF-IDF and Random Forest to provide personalized product recommendations.
 
 ![GitHub](https://img.shields.io/github/license/chandini2595/Hybrid-Product-Recommendation-System)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
