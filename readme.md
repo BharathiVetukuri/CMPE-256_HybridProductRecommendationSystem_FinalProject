@@ -12,7 +12,7 @@ This project implements a hybrid recommendation system combining three approache
 - Collaborative Filtering using SVD (Singular Value Decomposition)
 - Content-Based Filtering using TF-IDF
 - Hybrid approach using Random Forest to combine both methods
-<img width="593" alt="image" src="https://github.com/user-attachments/assets/ab350625-6196-4263-a254-a620a35cbae9">
+![image](https://github.com/user-attachments/assets/a3012dee-2b11-413b-9d61-13d2905c2228)
 
 # High Level Architecture 
 
