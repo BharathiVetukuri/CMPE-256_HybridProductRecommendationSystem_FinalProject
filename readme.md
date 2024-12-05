@@ -12,9 +12,9 @@ This project implements a hybrid recommendation system combining three approache
 
 # Artifacts:
 
-**Project Demo Youtube Link:** https://youtu.be/pKpgschLBFc 
+**Full Demo Youtube Link:** https://youtu.be/pKpgschLBFc 
 
-**UI and Project Run Demo:** https://youtu.be/35OBaW7t4B4 
+**Application Run with Gradio UI Demo Youtube Link:** https://youtu.be/35OBaW7t4B4 
 
 **Colab Links:**
 
@@ -113,24 +113,6 @@ Collaborative-Based Filtering and Hybrid Models are large files even after compr
   - Product relationships
   - Model effectiveness analysis
 
-# Full Demo Youtube Link: 
-
-https://youtu.be/pKpgschLBFc
-
-# Application Run with Gradio UI Demo Youtube Link: 
-
-https://youtu.be/35OBaW7t4B4
-
-# Interpretability
+# Results:
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/40df5561-bd5e-4c46-b38d-d093fa96fbd0">
-
-
-
-
-
-# Hybrid Product Recommendation System
-
-Full Demo Youtube Link: https://youtu.be/pKpgschLBFc 
-
-Application Run with Gradio UI Demo Youtube Link: https://youtu.be/35OBaW7t4B4 
