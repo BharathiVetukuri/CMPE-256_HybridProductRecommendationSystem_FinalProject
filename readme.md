@@ -49,8 +49,6 @@ Collaborative-Based Filtering and Hybrid Models are large files even after compr
 - Optimizes weights dynamically
 - Handles cold-start problems effectively
 
-I'll help you add the KDD (Knowledge Discovery in Databases) steps we incorporated in the project.
-
 # KDD
 
 ## 1. Data Selection
