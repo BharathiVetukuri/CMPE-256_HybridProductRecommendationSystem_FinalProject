@@ -55,6 +55,14 @@ Collaborative-Based Filtering and Hybrid Models are large files even after compr
 - Optimizes weights dynamically
 - Handles cold-start problems effectively
 
+# Steps to Run:
+
+* Download Products.csv
+* Based on the functionality, choose the .ipynb file to execute.
+* Upload the dataset(products.csv) to the colab file and run the cells of the Colab.
+* Sample Input: New Customer ID: 123456, Existing Customer ID: 0c9ff9d8ed9b9bdd825487b3a66e05f5  
+* Expected Output: Top 5 recommended products.
+
 # Results:
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/40df5561-bd5e-4c46-b38d-d093fa96fbd0">
