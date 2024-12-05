@@ -36,7 +36,7 @@ This project implements a hybrid recommendation system combining three approache
 
 **Content-Based Filtering:** https://github.com/BharathiVetukuri/CMPE-256_HybridProductRecommendationSystem_FinalProject/blob/main/content_based_scaler.pkl.zip , https://github.com/BharathiVetukuri/CMPE-256_HybridProductRecommendationSystem_FinalProject/blob/main/content_based_tfidf.pkl.zip 
 
-Collaborative-Based Filtering and Hybrid Models are large files even after compressing, hence can download the models when Colab is run and the models are deployed to Model Bit.
+Content-Based, Collaborative-Based Filtering and Hybrid Models are deployed to the Model Bit Servers. The models can be even downloaded after Colab execution.
 
 # Features
 
