@@ -58,3 +58,6 @@ Collaborative-Based Filtering and Hybrid Models are large files even after compr
 # Results:
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/40df5561-bd5e-4c46-b38d-d093fa96fbd0">
+
+![image](https://github.com/user-attachments/assets/bcd1c74e-9679-4bdc-bce6-b27234d2294e)
+
