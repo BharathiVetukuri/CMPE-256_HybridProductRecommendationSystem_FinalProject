@@ -2,10 +2,6 @@
 
 A scalable hybrid recommendation system that combines Singular Value Decomposition (SVD), TF-IDF and Random Forest to provide personalized product recommendations.
 
-![GitHub](https://img.shields.io/github/license/chandini2595/Hybrid-Product-Recommendation-System)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
 # Overview
 
 This project implements a hybrid recommendation system combining three approaches:
@@ -14,25 +10,27 @@ This project implements a hybrid recommendation system combining three approache
 - Hybrid approach using Random Forest to combine both methods
 ![image](https://github.com/user-attachments/assets/a3012dee-2b11-413b-9d61-13d2905c2228)
 
-# High Level Architecture 
+# Artifacts:
 
-![image](https://github.com/user-attachments/assets/fda999a1-745c-423e-82d2-98ad7171ebd0)
+**Project Demo Youtube Link:** https://youtu.be/pKpgschLBFc 
 
-# Dataflow diagram
+**UI and Project Run Demo:** https://youtu.be/35OBaW7t4B4 
 
-![image](https://github.com/user-attachments/assets/07ebf81c-7f64-4696-bce6-f963c97fe612)
+**Colab Links:**
 
-# Sequence diagram
+Hybrid Product Recommendation System: https://colab.research.google.com/drive/1gkSlkkvmVvr1uwGFIyoBisSh5ZaJjNia?usp=sharing 
 
-![image](https://github.com/user-attachments/assets/d272256d-3827-48c1-b7e5-64faeeb625e3)
+Product Recommendation User Interface: https://colab.research.google.com/drive/17CENL-xktRCrPAgYPxFI3Evx8ztOBNPF?usp=sharing 
 
-# Component level design
+Model Deployment: https://colab.research.google.com/drive/17CENL-xktRCrPAgYPxFI3Evx8ztOBNPF?usp=sharing
 
-![image](https://github.com/user-attachments/assets/708865a1-e14a-4100-98cc-60b4728a8091)
+**Dataset:** Products.csv (Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
 
-# Dataset
+**Models:** 
 
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Content-Based Filtering: https://github.com/BharathiVetukuri/CMPE-256_HybridProductRecommendationSystem_FinalProject/blob/main/content_based_scaler.pkl.zip , https://github.com/BharathiVetukuri/CMPE-256_HybridProductRecommendationSystem_FinalProject/blob/main/content_based_tfidf.pkl.zip 
+
+Collaborative-Based Filtering and Hybrid Models are large files even after compressing, hence can download the models when Colab is run and the models are deployed to Model Bit.
 
 # Features
 
